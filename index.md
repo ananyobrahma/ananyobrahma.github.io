@@ -15,7 +15,7 @@ Welcome to my website! I am a fifth-year PhD candidate in Economics at Universit
          alt="LinkedIn" width="32">
   </a>&nbsp;&nbsp;
 
-  <a href="https://x.com/ananyobrahma" target="_blank">
+  <a href="https://x.com/ananyo_brahma" target="_blank">
     <img src="https://cdn.simpleicons.org/x/000000"
          alt="X" width="32">
   </a>&nbsp;&nbsp;
