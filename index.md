@@ -1,5 +1,5 @@
 # Ananyo Brahma
-Welcome to my website! I am a fifth-year PhD candidate in Economics at University of California, Santa Cruz.
+Welcome to my website! I am a fifth-year PhD candidate in Economics at University of California, Santa Cruz. 
 
 [Home](./) | [Research](./research) | [Teaching](./teaching)
 
@@ -23,5 +23,12 @@ Welcome to my website! I am a fifth-year PhD candidate in Economics at Universit
   <a href="https://github.com/ananyobrahma" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
          alt="GitHub" width="32">
+  </a>&nbsp;&nbsp;
+
+  <a href="https://scholar.google.com/citations?user=m1EovYQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/googlescholar"
+         alt="Google Scholar" width="32">
   </a>
 </p>
+
+
