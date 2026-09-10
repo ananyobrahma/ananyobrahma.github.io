@@ -6,4 +6,5 @@
 ## Working Papers
 - Import Exposure and Labor Market Adjustments: Evidence from India
 
-## Work in progress
+### Media writing
+- [Do rural roads promote inclusive entrepreneurship?](https://www.ideasforindia.in/topics/macroeconomics/do-rural-roads-promote-inclusive-entrepreneurship.html), _Ideas for India, July 22, 2025_
