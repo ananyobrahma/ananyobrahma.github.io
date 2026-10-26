@@ -31,7 +31,7 @@ Welcome to my website! I am a fifth-year PhD candidate in Economics at Universit
   </a>
 
   <a href="https://orcid.org/0009-0009-6525-8727" target="_blank" rel="noopener">
-  <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" />
+  <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="32" />
 </a>
 </p>
 
