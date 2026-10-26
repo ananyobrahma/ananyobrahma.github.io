@@ -5,7 +5,7 @@ Welcome to my website! I am a fifth-year PhD candidate in Economics at Universit
 
 ## Contact
 **Address**: Department of Economics, UC Santa Cruz, 1156 High St, Santa Cruz, CA 95064  
-**Email**: [abrahma@ucsc.edu](abrahma@ucsc.edu)
+**Email**: [abrahma@ucsc.edu](mailto:abrahma@ucsc.edu)
 
 ## Socials
 
@@ -29,6 +29,10 @@ Welcome to my website! I am a fifth-year PhD candidate in Economics at Universit
     <img src="https://cdn.simpleicons.org/googlescholar"
          alt="Google Scholar" width="32">
   </a>
+
+  <a href="https://orcid.org/0009-0009-6525-8727" target="_blank" rel="noopener">
+  <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" />
+</a>
 </p>
 
 
