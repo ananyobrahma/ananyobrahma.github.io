@@ -1,0 +1,6 @@
+title: Ananyo Brahma
+description: PhD candidate in Economics at UC Santa Cruz. Research in development economics, trade, and labor markets.
+url: "https://ananyobrahma.github.io"
+logo: /assets/img/headshot.jpg
+plugins:
+  - jekyll-seo-tag
