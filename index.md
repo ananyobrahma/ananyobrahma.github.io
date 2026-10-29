@@ -1,8 +1,8 @@
-# Ananyo Brahma
 {% include nav.html %}
-Welcome to my website! I am a fifth-year PhD candidate in Economics at University of California, Santa Cruz. 
 
-[Home](./) | [Research](./research) | [Teaching](./teaching)
+# Ananyo Brahma
+
+Welcome to my website! I am a fifth-year PhD candidate in Economics at University of California, Santa Cruz.
 
 ## Contact
 **Address**: Department of Economics, UC Santa Cruz, 1156 High St, Santa Cruz, CA 95064  
@@ -29,11 +29,10 @@ Welcome to my website! I am a fifth-year PhD candidate in Economics at Universit
   <a href="https://scholar.google.com/citations?user=m1EovYQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.simpleicons.org/googlescholar"
          alt="Google Scholar" width="32">
+  </a>&nbsp;&nbsp;
+
+  <a href="https://orcid.org/0009-0009-6525-8727" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/orcid/A6CE39"
+         alt="ORCID" width="32">
   </a>
-
-  <a href="https://orcid.org/0009-0009-6525-8727" target="_blank" rel="noopener">
-  <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="32" />
-</a>
 </p>
-
-
