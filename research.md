@@ -10,7 +10,7 @@
 
 ## Working Papers
 - Import Exposure and Labor Market Adjustments: Evidence from India  
-**Presentations**: All CA Labor 2025 (Stanford University, poster presentation), ACEGD 2025 (ISI Delhi), PacDev 2026 (UC Davis), SEA 2026 (scheduled)
+**Presentations**: All CA Labor 2025 (Stanford University, poster presentation), ACEGD 2025 (ISI Delhi), PacDev 2026 (UC Davis), SEA 2026 (Houston, TX)
 
 ## Work in Progress
 - Innovation and financial constraints in India (with [Nirvikar Singh](https://nirvikarsingh.sites.ucsc.edu) and [Gonzalo Respighi Grasso](https://www.gonzalorespighigrasso.com))
