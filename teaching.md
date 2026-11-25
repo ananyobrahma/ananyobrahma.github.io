@@ -6,6 +6,7 @@
 - Introduction to Econometrics (Econ 113), _Summer 2025, Winter 2026_
 
 ## Teaching Assistant
+- Trade Wars and Global Management (Econ 188), _Winter 2027_
 - Is There Truth in Numbers: The Role of Statistics in Economics (Econ 104), _Spring 2026_
 - Applied Econometrics I (Econ 216, Master's level), _Fall 2025_
 - Intermediate Macroeconomics (Econ 100B), _Summer 2025_
