@@ -1,5 +1,3 @@
-{% include nav.html %}
-
 # Research
 
 ## Publications
