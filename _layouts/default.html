@@ -32,16 +32,19 @@
       .site-nav a:first-child { margin-left: 0; }
       .site-nav a:hover { color: #0969da; }
       .site-nav a.active { color: #24292f; border-bottom: 2px solid #0969da; }
-    </style>
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      <header class="site-header">
-        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-        {% include nav.html %}
-      </header>
 
-      {{ content }}
-    </div>
-  </body>
-</html>
+      .home {
+        display: flex;
+        gap: 2.5rem;
+        align-items: flex-start;
+      }
+      .home-photo {
+        flex: 0 0 220px;
+      }
+      .home-photo img {
+        width: 100%;
+        height: auto;
+        border-radius: 8px;
+      }
+      .home-text {
+        flex: 1;
