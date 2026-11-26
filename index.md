@@ -1,6 +1,6 @@
 <div class="home">
   <div class="home-photo">
-    <img src="{{ '/assets/img/headshot.jpg' | relative_url }}" alt="Ananyo Brahma">
+    <img src="{{ '/assets/headshot.jpg' | relative_url }}" alt="Ananyo Brahma">
   </div>
 
   <div class="home-text" markdown="1">
