@@ -1,5 +1,3 @@
-{% include nav.html %}
-
 Welcome to my website! I am a fifth-year PhD candidate in Economics at University of California, Santa Cruz.
 
 ## Contact
