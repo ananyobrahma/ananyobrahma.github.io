@@ -48,3 +48,24 @@
       }
       .home-text {
         flex: 1;
+        min-width: 0;
+      }
+      .home-text h2:first-of-type { margin-top: 1.5rem; }
+
+      @media (max-width: 640px) {
+        .home { flex-direction: column; gap: 1.5rem; }
+        .home-photo { flex-basis: auto; max-width: 180px; }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      <header class="site-header">
+        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        {% include nav.html %}
+      </header>
+
+      {{ content }}
+    </div>
+  </body>
+</html>
